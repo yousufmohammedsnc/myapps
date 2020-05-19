@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="hello" max_length="40" name="x_snc_spptraining_hello" type="collection"/>
+</database>
