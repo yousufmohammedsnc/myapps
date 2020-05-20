@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="task" label="DD test" max_length="40" name="x_snc_spptraining_dd_test" type="collection">
+        <element label="dd column" max_length="30" name="u_dd_column" type="string"/>
+    </element>
+</database>
